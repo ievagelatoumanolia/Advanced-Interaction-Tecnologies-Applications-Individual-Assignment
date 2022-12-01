@@ -29,7 +29,8 @@
 
 
 # 2nd Deliverable
-
+Ξεκινόντας την υλοποίηση του 2ου παραδοτέου (για το πρωο υποπαραδοτέο) - backround removal, μελέτησα το example 16-12 απο Learning Processing, 2nd Edition https://eclass.aegean.gr/modules/document/file.php/511214/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%B1/Shiffman%2C%20Daniel%20-%20Learning%20Processing%2C%20Second%20Edition_%20A%20Beginner%27s%20Guide%20to%20Progra.pdf.
+Όπως αναφέρεται στην εκφώνηση του παραδοτέου πρέπει να γίνει αφαίρεση του υποβαθρου και να αντικατασταθεί από μία εικόνα ή βίντεο. Για την αντικατάσταση του υποβάθρου από μία εικόνα της επιλογής μου χρησιμοποίησα την εντολή PImage backgroundReplace; και βοηθήθηκα από το https://www.w3schools.com/cssref/pr_background-image.php. Στη συνέχεια επέλεξα, 
 
 # 3rd Deliverable 
 
